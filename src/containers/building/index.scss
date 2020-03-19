@@ -4,7 +4,7 @@
     overflow: hidden;
     width:100%;
     .App-main-building {
-        
+        background-color: var(--secondary-bg);
         &:before {
             @extend %bg-left;
             z-index: 0;

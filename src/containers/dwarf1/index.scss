@@ -8,6 +8,11 @@
     padding-bottom: var(--large-margin);
   }
   background: var(--secondary-bg);
+  &::before {
+    
+    @extend %bg-left;
+    background: var(--primary-bg);
+  }
   margin-right: -100px;
   .App-dwarf1-art {
     @media all and (max-width: $md) {

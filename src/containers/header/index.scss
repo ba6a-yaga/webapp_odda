@@ -4,7 +4,7 @@
   align-items: center;
   justify-content: flex-end;
   margin: 0 auto;
-  background: url('../../assets/pic/header/Shapka_1.png');
+  background:var(--secondary-bg) url('../../assets/pic/header/Shapka_1.png');
   height:493px;
   width:100%;
   background-size: cover;
