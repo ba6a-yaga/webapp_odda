@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/webapp_odda/static/css/main.f4504611.chunk.css",
-    "main.js": "/webapp_odda/static/js/main.62283343.chunk.js",
-    "main.js.map": "/webapp_odda/static/js/main.62283343.chunk.js.map",
+    "main.js": "/webapp_odda/static/js/main.9688124b.chunk.js",
+    "main.js.map": "/webapp_odda/static/js/main.9688124b.chunk.js.map",
     "runtime-main.js": "/webapp_odda/static/js/runtime-main.52755e73.js",
     "runtime-main.js.map": "/webapp_odda/static/js/runtime-main.52755e73.js.map",
-    "static/js/2.d96a8502.chunk.js": "/webapp_odda/static/js/2.d96a8502.chunk.js",
-    "static/js/2.d96a8502.chunk.js.map": "/webapp_odda/static/js/2.d96a8502.chunk.js.map",
+    "static/js/2.ba1e9980.chunk.js": "/webapp_odda/static/js/2.ba1e9980.chunk.js",
+    "static/js/2.ba1e9980.chunk.js.map": "/webapp_odda/static/js/2.ba1e9980.chunk.js.map",
     "index.html": "/webapp_odda/index.html",
-    "precache-manifest.447396be2a9dfa63b37d4eb8f3972b46.js": "/webapp_odda/precache-manifest.447396be2a9dfa63b37d4eb8f3972b46.js",
+    "precache-manifest.7b3add06fed4f529db082d96469c0b86.js": "/webapp_odda/precache-manifest.7b3add06fed4f529db082d96469c0b86.js",
     "service-worker.js": "/webapp_odda/service-worker.js",
     "static/css/main.f4504611.chunk.css.map": "/webapp_odda/static/css/main.f4504611.chunk.css.map",
     "static/media/Building.png": "/webapp_odda/static/media/Building.2b136b42.png",
@@ -20,15 +20,15 @@
     "static/media/Screenshot_1.png": "/webapp_odda/static/media/Screenshot_1.5189cfa0.png",
     "static/media/Screenshot_2.png": "/webapp_odda/static/media/Screenshot_2.2d1fda92.png",
     "static/media/Screenshot_3.png": "/webapp_odda/static/media/Screenshot_3.860bd6c8.png",
-    "static/media/Shapka_1.png": "/webapp_odda/static/media/Shapka_1.9d6f807c.png",
+    "static/media/index.scss": "/webapp_odda/static/media/Shapka_1.9d6f807c.png",
     "static/media/fontello.css": "/webapp_odda/static/media/fontello.ee275448.ttf",
     "static/media/gplay.png": "/webapp_odda/static/media/gplay.4352197a.png",
     "static/media/itunes.png": "/webapp_odda/static/media/itunes.351d137e.png"
   },
   "entrypoints": [
     "static/js/runtime-main.52755e73.js",
-    "static/js/2.d96a8502.chunk.js",
+    "static/js/2.ba1e9980.chunk.js",
     "static/css/main.f4504611.chunk.css",
-    "static/js/main.62283343.chunk.js"
+    "static/js/main.9688124b.chunk.js"
   ]
 }
