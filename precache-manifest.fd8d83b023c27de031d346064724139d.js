@@ -1,19 +1,19 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "4c7da3a2c9aac1835646cd6113ab6ed1",
+    "revision": "402cf5d4422cc1b0bd6e425a10ec16bb",
     "url": "/webapp_odda/index.html"
   },
   {
-    "revision": "96b316925165d3365ad1",
+    "revision": "6d6401227dab318b506e",
     "url": "/webapp_odda/static/css/main.f4504611.chunk.css"
   },
   {
-    "revision": "14f1f540722b50c63986",
-    "url": "/webapp_odda/static/js/2.ba1e9980.chunk.js"
+    "revision": "e201c3ca3c2bd9f35b0d",
+    "url": "/webapp_odda/static/js/2.5a30238c.chunk.js"
   },
   {
-    "revision": "96b316925165d3365ad1",
-    "url": "/webapp_odda/static/js/main.9688124b.chunk.js"
+    "revision": "6d6401227dab318b506e",
+    "url": "/webapp_odda/static/js/main.7246ec73.chunk.js"
   },
   {
     "revision": "4c38cc72045f9c0d3613",

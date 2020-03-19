@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/webapp_odda/static/css/main.f4504611.chunk.css",
-    "main.js": "/webapp_odda/static/js/main.9688124b.chunk.js",
-    "main.js.map": "/webapp_odda/static/js/main.9688124b.chunk.js.map",
+    "main.js": "/webapp_odda/static/js/main.7246ec73.chunk.js",
+    "main.js.map": "/webapp_odda/static/js/main.7246ec73.chunk.js.map",
     "runtime-main.js": "/webapp_odda/static/js/runtime-main.52755e73.js",
     "runtime-main.js.map": "/webapp_odda/static/js/runtime-main.52755e73.js.map",
-    "static/js/2.ba1e9980.chunk.js": "/webapp_odda/static/js/2.ba1e9980.chunk.js",
-    "static/js/2.ba1e9980.chunk.js.map": "/webapp_odda/static/js/2.ba1e9980.chunk.js.map",
+    "static/js/2.5a30238c.chunk.js": "/webapp_odda/static/js/2.5a30238c.chunk.js",
+    "static/js/2.5a30238c.chunk.js.map": "/webapp_odda/static/js/2.5a30238c.chunk.js.map",
     "index.html": "/webapp_odda/index.html",
-    "precache-manifest.7b3add06fed4f529db082d96469c0b86.js": "/webapp_odda/precache-manifest.7b3add06fed4f529db082d96469c0b86.js",
+    "precache-manifest.fd8d83b023c27de031d346064724139d.js": "/webapp_odda/precache-manifest.fd8d83b023c27de031d346064724139d.js",
     "service-worker.js": "/webapp_odda/service-worker.js",
     "static/css/main.f4504611.chunk.css.map": "/webapp_odda/static/css/main.f4504611.chunk.css.map",
     "static/media/Building.png": "/webapp_odda/static/media/Building.2b136b42.png",
@@ -27,8 +27,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.52755e73.js",
-    "static/js/2.ba1e9980.chunk.js",
+    "static/js/2.5a30238c.chunk.js",
     "static/css/main.f4504611.chunk.css",
-    "static/js/main.9688124b.chunk.js"
+    "static/js/main.7246ec73.chunk.js"
   ]
 }
