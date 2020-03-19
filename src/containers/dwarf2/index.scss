@@ -70,11 +70,11 @@
   }
 
   .by-title-text {
-    font-family: "kanit";
+    font-family: "Kanit";
     grid-column: 1 / span 1;
     font-weight: bold;
     color: var(--primary-color-title);
-    font-size: 23px;
+    font-size: 18px;
     text-transform: uppercase;
     @media all and (max-width: $lg) {
         margin-left:6px;

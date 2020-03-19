@@ -8,7 +8,7 @@ const StyledBuilding = styled.div`
   align-items: center;
   img {
     max-width: unset!important;
-    width: calc(100% + 400px);
+    width: 75%;
     margin-right: -200px;
     margin-left: 200px;
   }
@@ -38,11 +38,11 @@ const StyledText = styled.div`
     font-family:"Kanit";
     font-size: 28px;
     color: #fff;
-    margin-top:100px;
+    margin-top:50px;
   }
   p {
     font-family:"Kanit";
-    font-size:26px;
+    font-size:18px;
   }
   @media (max-width: 768px) {
     h1 {

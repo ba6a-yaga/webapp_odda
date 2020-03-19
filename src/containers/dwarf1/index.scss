@@ -46,11 +46,11 @@
     // padding-right: var(--medium-margin);
     grid-template-columns: 1fr 320px;
     .by-title-text {
-      font-family: "kanit";
+      font-family: "Kanit";
       grid-column: 1 / span 1;
       font-weight: bold;
       color: var(--primary-color-title);
-      font-size: 26px;
+      font-size: 18px;
       text-transform: uppercase;
     }
     .by-description-text {

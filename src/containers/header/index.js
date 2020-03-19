@@ -10,7 +10,7 @@ const Header = () => {
 
   return (
     <div className="header">
-      <a className="button-play" href="/">ИГРАТЬ</a>
+      <a className="button-play" href="/">PLAY</a>
       <div class="store-buttons">
         <a href="#"><img src={gplay} alt="Download from Google Play" /></a>
         <a href="#"><img src={itunes} alt="Download from ITunes" /></a>
