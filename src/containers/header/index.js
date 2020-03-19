@@ -1,7 +1,5 @@
 import React from "react";
-import styled from "styled-components";
 import "./index.scss"
-import img from "../../assets/pic/header/Shapka_1.png";
 import gplay from "../../assets/pic/header/gplay.png";
 import itunes from "../../assets/pic/header/itunes.png";
 
@@ -10,9 +8,9 @@ const Header = () => {
 
   return (
     <div className="header">
-      <a className="button-play" href="/">PLAY</a>
+      <a className="button-play" href="https://play.google.com/apps/testing/com.DefaultCompany.Oddal_test">PLAY</a>
       <div class="store-buttons">
-        <a href="#"><img src={gplay} alt="Download from Google Play" /></a>
+        <a href="https://play.google.com/apps/testing/com.DefaultCompany.Oddal_test"><img src={gplay} alt="Download from Google Play" /></a>
         <a href="#"><img src={itunes} alt="Download from ITunes" /></a>
       </div>
     </div>

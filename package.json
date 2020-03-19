@@ -44,8 +44,8 @@
     "prettier": "^1.19.1",
     "react-test-renderer": "^16.11.0"
   },
-  "main":"index.js",
+  "main":"index.html",
   "repository": "git@github.com:ba6a-yaga/webapp_odda.git",
-  "homepage": "https://ba6a-yaga.github.io/webapp_odda/"
+  "homepage": "."
   
 }
