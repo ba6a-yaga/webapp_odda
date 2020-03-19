@@ -9,6 +9,7 @@
     }
     margin-right: 0;
   }
+  background-color: var(--secondary-bg);
   @media all and (max-width: $md) {
     padding-bottom: var(--large-margin);
   }
@@ -31,11 +32,12 @@
       border-bottom: 4px solid #6882aa;
     }
     display: grid;
-    grid-template-columns: 336px 1fr;
+    grid-template-columns: 250px 1fr;
     grid-column: 1 / span 3;
     border-bottom: 2px solid #6882aa;
     margin-right: -100px;
     .by-titleblock-text {
+      font-family: "kanit";
       margin-top:90px;
       @media all and (max-width: $lg) {
         margin-left:var(--text-side-padding);

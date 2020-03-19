@@ -9,7 +9,11 @@
   }
   // background: var(--secondary-bg);
   margin-right: -100px;
-  padding-bottom: 321px;
+  padding-bottom: 291px;
+  &::before {
+    @extend %bg-left;
+    background: var(--primary-bg);
+  }
   .App-works2-art {
     @media all and (max-width: $md) {
       max-height: 240px;
@@ -70,6 +74,7 @@
   }
 
   .by-title-text {
+    line-height:1.24em;
     font-family: "kanit";
     grid-column: 1 / span 1;
     font-weight: bold;

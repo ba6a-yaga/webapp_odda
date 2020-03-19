@@ -37,8 +37,8 @@ const StyledImage = styled.div`
   justify-content: center;
   align-items: center;
   background-size: cover;
+  background-color: var(--secondary-bg);
   max-height: 480px;
-  margin-left:38px;
   background: url(${dwarf2}) center center no-repeat;
 `;
 

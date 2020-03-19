@@ -1,6 +1,5 @@
 @import "../../settings.scss";
 #App-main-hero {
-
     .by-wrapper {
         width:100%;
         max-width:unset;
@@ -14,6 +13,24 @@
         justify-content: center;
         font-family: var(--footer-font);
         width: 100%;
+        &::before {
+            @extend %bg-left;
+            @media all and (max-width: $xl) {
+              width: calc(412px + 2000px);
+              left: calc(-2000px + (100vw - 1240px) / 2);
+            }
+            @media all and (max-width: $lg) {
+              width: calc(342px + 2000px);
+              left: calc(-2000px);
+            }
+            @media all and (max-width: $md) {
+              width: 100%;
+            }
+            content: "";
+            width: calc(444px + 2000px);
+            left: calc(-2000px + (100vw - 1240px) / 2);
+            background: var(--primary-bg);
+        }
         img {
             @media (max-width: 768px) {
                 height: 600px;

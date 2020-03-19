@@ -8,6 +8,11 @@
     padding-bottom: var(--large-margin);
   }
   background: var(--secondary-bg);
+  &::before {
+    
+    @extend %bg-left;
+    background: var(--primary-bg);
+  }
   margin-right: -100px;
   .App-dwarf1-art {
     @media all and (max-width: $md) {
@@ -46,11 +51,12 @@
     // padding-right: var(--medium-margin);
     grid-template-columns: 1fr 320px;
     .by-title-text {
+      line-height:1.24em;
       font-family: "kanit";
       grid-column: 1 / span 1;
       font-weight: bold;
       color: var(--primary-color-title);
-      font-size: 26px;
+      font-size: 23px;
       text-transform: uppercase;
     }
     .by-description-text {
