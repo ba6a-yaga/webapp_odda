@@ -6,7 +6,7 @@ class Footer extends React.Component {
     return (
       <div className={`by-footer ${this.props.className}`}>
         <div className={"by-footer-content"}>
-          &copy; {new Date().getFullYear()} «Одда»
+          &copy; {new Date().getFullYear()} «Oddal»
         </div>
       </div>
     );

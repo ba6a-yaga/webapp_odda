@@ -5,11 +5,11 @@
   }
   @media all and (max-width: $md) {
     margin-right: 0;
-    padding-bottom: var(--large-margin);
+    padding-bottom: 1rem;
   }
   // background: var(--secondary-bg);
   margin-right: -100px;
-  padding-bottom: 291px;
+  padding-bottom: var(--large-margin);
   &::before {
     @extend %bg-left;
     background: var(--primary-bg);
@@ -21,7 +21,7 @@
       margin-left: 0;
     }
     //background: var(--primary-bg);
-    padding-bottom: var(--large-margin);
+    padding-bottom: 1rem;
     margin-left: 80px;
     margin: 0 auto;
     img {
