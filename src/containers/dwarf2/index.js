@@ -39,6 +39,7 @@ const StyledImage = styled.div`
   background-size: cover;
   background-color: var(--secondary-bg);
   max-height: 480px;
+  margin-left:38px;
   background: url(${dwarf2}) center center no-repeat;
 `;
 
